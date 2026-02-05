@@ -12,4 +12,5 @@ Overall Insight: Missing values appear to be randomly distributed, indicating no
 
 Implication: Data can be safely preprocessed or imputed without introducing bias from these missing values.
 
-Skills highlighted: Data cleaning, statistical analysis, R, Pandas, visualization, reproducible workflow.
+# Skills highlighted:
+Data cleaning, statistical analysis, R, Pandas, visualization, reproducible workflow.
