@@ -15,13 +15,4 @@ Implication: Data can be safely preprocessed or imputed without introducing bias
 # Skills highlighted:
 Data cleaning, statistical analysis, R, Pandas, visualization, reproducible workflow.
 
-#
-
-<img width="800" height="532" alt="image" src="https://github.com/user-attachments/assets/3100c95a-56b7-4329-8618-32ec0eddcd46" />
-*Shows Temperature distributions for rows with and without missing NO2_Location_A. Missing values appear randomly.*
-
-<img width="975" height="373" alt="image" src="https://github.com/user-attachments/assets/d63334fd-8773-4c95-b8a9-0afa1cccb1a2" />
-
-
-<img width="975" height="373" alt="image" src="https://github.com/user-attachments/assets/c80afc74-5e25-40d8-884c-b520959c8f5b" />
 
