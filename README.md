@@ -14,3 +14,6 @@ Implication: Data can be safely preprocessed or imputed without introducing bias
 
 # Skills highlighted:
 Data cleaning, statistical analysis, R, Pandas, visualization, reproducible workflow.
+
+<img width="1140" height="585" alt="image" src="https://github.com/user-attachments/assets/c80afc74-5e25-40d8-884c-b520959c8f5b" />
+
