@@ -2,9 +2,14 @@
 
 This project demonstrates diagnosing and analyzing missing values in an air quality dataset using R and Pandas. It applies visualizations, statistical tests (t-test, chi-square), and exploratory analysis to assess whether missing values occur randomly or systematically across numerical and categorical attributes.
 
-# Key outcomes:
+# Key Outcomes
 
-1. Identified that missing values in NO2_Location_A are randomly distributed.
+Numerical Attributes: Missing values in NO2_Location_A are not influenced by Temperature, as confirmed by boxplots, histograms, and a two-sample t-test.
 
-2. Applied best practices for data cleaning and preprocessing for downstream modeling.
-# Skills highlighted: Data cleaning, statistical analysis, R, Pandas, visualization, reproducible workflow.
+Categorical Attributes: No significant association was found between missing values and weekday, based on chi-square tests.
+
+Overall Insight: Missing values appear to be randomly distributed, indicating no systematic pattern or external factor causing them.
+
+Implication: Data can be safely preprocessed or imputed without introducing bias from these missing values.
+
+Skills highlighted: Data cleaning, statistical analysis, R, Pandas, visualization, reproducible workflow.
